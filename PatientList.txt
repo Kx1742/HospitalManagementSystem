@@ -1,0 +1,20 @@
+Wong Lok Lok%UMMY123451%43%6934,Jalan Z%Lim Kok Kok,Joseph%Allergies,Flu%Inpatient,Outpatient%28/01/2021,22/02/2021
+Lee Woon%UMMY123452%36%Cheras Selangor%Ahamad binti Salmon%Cough%Outpatient%28/07/2021
+Lim Yong Shun%UMMY123453%34%123,ice kacang%Lim Shun Shun%Fever%Outpatient%28/07/2021
+Chin Xin Xing%UMMY123454%23%123,USA%Lim Kok Kok%Cough%Inpatient%28/07/2021
+Jack Yoeh%UMMY123455%21%taman segar, cheras%Bahvani Y%Allergies%Inpatient%28/07/2021
+Jacky Wong%UMMY123456%23%Taman Midah, Cheras%Bahvani Y%Flu%Inpatient%29/07/2021
+Mack Yup%UMMY123457%23%taman ceria, KL%Mudidin Alaka%Flu%Inpatient%29/07/2021
+Max Yup%UMMY123458%30%taman ceria, KL%Lim Kok Kok%Colds%Outpatient%29/07/2021
+Ang Xin Xuan%UMMY123459%23%ampang, selangor%Mudidin Alakak%Cough%Outpatient%29/07/2021
+Joey Heng%UMMY123460%19%kampar, perak%Lim Shun Shun%Fever%Outpatient%29/07/2021
+Lim Qi Yuan%UMMY123461%35%taman connaught, KL%Lim Shun Shun%Stomach Aches%Outpatient%30/07/2021
+Li Kai%UMMY123462%20%bukit bintang, KL%Lim Shun Shun%Cough%Outpatient%30/07/2021
+Li Wei%UMMY123463%20%bukit bintang, KL%Lim Shun Shun%Cough%Outpatient%30/07/2021
+Yeoh Wei Lik%UMMY123460%30%taman ceria, KL%Ahamad binti Salmon%Colds%Outpatient%30/07/2021
+Chin Kai Xin%UMMY123464%23%Ampang, Selangor%Lim Kok Kok%Cough%Inpatient%30/07/2021
+Wang Li Wen%UMMY123465%40%Maluri, KL%Hoon Hui Hui%Flu%Inpatient%31/07/2021
+Wang Li Wai%UMMY123466%12%Cheras, KL%Lim Kok Kok%Flu%Inpatient%31/07/2021
+Chia Ming Wei%UMMY123467%18%Maluri, KL%Hoon Hui Hui%Flu%Inpatient%31/07/2021
+Yap Mei Li%UMMY123468%39%Sentul, KL%Lim Kok Kok%Fever%Inpatient%01/08/2021
+Yap Wei Jian%UMMY123469%60%Sentul, KL%Mudidin Alaka,Lee Lei%Fever,Colds%Inpatient,Outpatient%01/08/2021,22/08/2021
